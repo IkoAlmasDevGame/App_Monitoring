@@ -1,4 +1,4 @@
-let CONFIG = { GAS_URL: localStorage.getItem('gas_url') || '' }
+let CONFIG = { GAS_URL: localStorage.getItem('gas_url') || 'https://script.google.com/macros/s/AKfycbx0KX8VOE5Y5up9T-T9LEckl8ZB4JdDTkW-uRwT_E43PaA96fgupBL0rSWIfwNREWEu/exec' }
 
 const STATE = {
   user: null,
