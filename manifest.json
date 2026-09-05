@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "SIM Monitoring Maulid",
+  "short_name": "Monitoring Maulid",
+  "version": "1.5",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90E2",
+  "description": "Sistem Informasi Management Monitoring Maulid v1.5",
+  "icons": [
+    {
+      "src": "icons/sim_maulid.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/sim_maulid.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
