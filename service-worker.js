@@ -3,7 +3,7 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/style.css',
-  '/scripts.js',
+  '/script.js',
   '/main.js',
   '/icons/sim_maulid.png',
   // Add other assets you want to cache
